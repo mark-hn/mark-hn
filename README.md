@@ -9,11 +9,11 @@
 ### Tech stack:
 Languages:
 
-  [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,c,html,css,r)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,c,html,css,r,bash,ruby)](https://skillicons.dev)
 
 Frameworks, libraries, and developer tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,git,bash,linux,gcp,firebase)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,git,gcp,firebase,docker,aws,mysql,kafka)](https://skillicons.dev)
 
 ### GitHub stats:
 
