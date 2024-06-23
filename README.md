@@ -17,5 +17,5 @@ Frameworks, libraries, and developer tools:
 
 ### GitHub stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dysfunctioned&theme=dark&mode=weekly&hide_border=true)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysfunctioned&layout=donut&bg_color=151515&text_color=ffffff&hide_border=true" alt="Top Langs" style="height: 195px;">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mark-hn&theme=dark&mode=weekly&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-hn&layout=donut&bg_color=151515&text_color=ffffff&hide_border=true" alt="Top Langs" style="height: 195px;">
