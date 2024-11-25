@@ -2,9 +2,8 @@
 
 ### About me:
 - :mortar_board: My name is Mark, a Computer Science student at the University of Toronto
-- :computer: I am currently working as a software engineer at [Flipp](https://corp.flipp.com/)
-- :star_struck: Some of my interests include artifical intelligence, microprocessor systems, and theoretical physics
-- :books: I am currently learning applied machine learning
+- :star_struck: Some of my interests include systems programming, artifical intelligence, and theoretical physics
+- :books: I am currently learning applied ML
 
 ### Tech stack:
 Languages:
