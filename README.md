@@ -2,8 +2,8 @@
 
 ### About me:
 - :mortar_board: My name is Mark, a Computer Science student at the University of Toronto
-- :star_struck: Some of my interests include systems programming, artifical intelligence, and theoretical physics
-- :books: I am currently learning about networking systems
+- :star_struck: Some of my interests include systems programming, machine learning, and automata theory
+- :books: I am currently learning about distributed computing
 
 ### Tech stack:
 Languages:
