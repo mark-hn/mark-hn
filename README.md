@@ -3,7 +3,7 @@
 ### About me:
 - :mortar_board: My name is Mark, a Computer Science student at the University of Toronto
 - :star_struck: Some of my interests include systems programming, artifical intelligence, and theoretical physics
-- :books: I am currently learning applied ML
+- :books: I am currently learning about networking systems
 
 ### Tech stack:
 Languages:
