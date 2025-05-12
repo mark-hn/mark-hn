@@ -2,8 +2,8 @@
 
 ### About me:
 - :mortar_board: My name is Mark, a Computer Science student at the University of Toronto
-- :star_struck: Some of my interests include systems programming, machine learning, and automata theory
-- :books: I am currently learning about distributed computing
+- 🏢: I'm currently working as a Software Engineering Intern at Amazon
+- :star_struck: Some of my interests include systems programming, distributed computing, and networking systems
 
 ### Tech stack:
 Languages:
