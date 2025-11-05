@@ -2,7 +2,7 @@
 
 ### About me:
 - :mortar_board: My name is Mark, a Computer Science student at the University of Toronto
-- 🏢 I'm currently working as a Software Engineering Intern at Amazon
+- 🏢 I'm currently in studying full-time, previously worked as a Software Engineering Intern at Amazon
 - :star_struck: Some of my interests include systems programming, distributed computing, and networking systems
 
 ### Tech stack:
