@@ -8,7 +8,7 @@
 ### Tech stack:
 Languages:
 
-  [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,ts,java,html,r,bash,ruby)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,js,go,html,r,bash,ruby)](https://skillicons.dev)
 
 Frameworks, libraries, and developer tools:
 
